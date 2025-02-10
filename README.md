@@ -48,7 +48,7 @@ Designed to analyse sales performance, identify growth opportunities, and stream
 * Performance Insights to pinpoint underperforming segments & regions for improvement strategies.
 
 
-## Dashboard Is as Follow
+## 🚀 Dashboard
 ![image](https://github.com/user-attachments/assets/ee03f86f-dc42-4648-97d7-a8c63a93757f)
 
 
