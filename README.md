@@ -46,3 +46,12 @@ Designed to analyse sales performance, identify growth opportunities, and stream
 * Dynamic Filters for time periods, states, and sub-categories to explore trends.
 * Time-Based Analysis to detect seasonality and sales spikes for better promotional planning.
 * Performance Insights to pinpoint underperforming segments & regions for improvement strategies.
+
+
+## Dashboard Is as Follow
+![image](https://github.com/user-attachments/assets/ee03f86f-dc42-4648-97d7-a8c63a93757f)
+
+
+
+
+
